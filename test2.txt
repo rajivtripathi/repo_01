@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is F894-7B2F
+
+ Directory of C:\Users\Rajiv\Desktop\gitfile
+
+15-Jun-18  12:57 PM    <DIR>          .
+15-Jun-18  12:57 PM    <DIR>          ..
+15-Jun-18  12:17 PM               369 test1.txt
+15-Jun-18  12:57 PM                 0 test2.txt
+               2 File(s)            369 bytes
+               2 Dir(s)  12,403,671,040 bytes free
