@@ -15,3 +15,5 @@ i am rajiv....came here....wgat nlcvnvnvdfj
 ########33
 
 1. learn revert command
+2. practice revert
+3. implement today
